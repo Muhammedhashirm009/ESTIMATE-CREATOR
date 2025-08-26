@@ -1,0 +1,184 @@
+[2025-08-21 09:55:33] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 09:55:33] UPLOAD_LOGO: POST data: []
+[2025-08-21 09:55:33] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"1000070093.jpg","full_path":"1000070093.jpg","type":"image\/jpeg","tmp_name":"\/tmp\/phpp43Xj9","error":0,"size":78206}}
+[2025-08-21 09:55:33] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 09:55:33] UPLOAD_LOGO: File validation started. Size: 78206 bytes
+[2025-08-21 09:55:33] UPLOAD_LOGO: File details - Name: 1000070093.jpg, Type: image/jpeg, Size: 78206, Extension: jpg
+[2025-08-21 09:55:33] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 09:55:33] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 09:55:33] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 09:55:33] UPLOAD_LOGO: Attempting to move file from /tmp/phpp43Xj9 to uploads/logo_d83c75921d82f588785b519731f0fd77_1755770133.jpg
+[2025-08-21 09:55:33] UPLOAD_LOGO: File moved successfully
+[2025-08-21 09:55:33] UPLOAD_LOGO: Upload completed successfully: uploads/logo_d83c75921d82f588785b519731f0fd77_1755770133.jpg
+[2025-08-21 09:55:33] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_d83c75921d82f588785b519731f0fd77_1755770133.jpg","logoName":"1000070093.jpg"}
+[2025-08-21 09:55:35] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 09:55:35] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 09:55:35] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 09:55:35] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 09:55:38] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 09:55:38] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 09:55:38] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 09:55:38] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 09:57:58] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 09:57:58] UPLOAD_LOGO: POST data: []
+[2025-08-21 09:57:58] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"1000070114.png","full_path":"1000070114.png","type":"image\/png","tmp_name":"\/tmp\/phpbtFFmU","error":0,"size":175128}}
+[2025-08-21 09:57:58] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 09:57:58] UPLOAD_LOGO: File validation started. Size: 175128 bytes
+[2025-08-21 09:57:58] UPLOAD_LOGO: File details - Name: 1000070114.png, Type: image/png, Size: 175128, Extension: png
+[2025-08-21 09:57:58] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 09:57:58] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 09:57:58] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 09:57:58] UPLOAD_LOGO: Attempting to move file from /tmp/phpbtFFmU to uploads/logo_e36da149ee0071d2fe4829e0bdaafac5_1755770278.png
+[2025-08-21 09:57:58] UPLOAD_LOGO: File moved successfully
+[2025-08-21 09:57:58] UPLOAD_LOGO: Upload completed successfully: uploads/logo_e36da149ee0071d2fe4829e0bdaafac5_1755770278.png
+[2025-08-21 09:57:58] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_e36da149ee0071d2fe4829e0bdaafac5_1755770278.png","logoName":"1000070114.png"}
+[2025-08-21 09:58:01] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 09:58:01] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 09:58:01] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 09:58:01] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 15:41:38] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 15:41:38] UPLOAD_LOGO: POST data: []
+[2025-08-21 15:41:38] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpc3bcHD","error":0,"size":5152}}
+[2025-08-21 15:41:38] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 15:41:38] UPLOAD_LOGO: File validation started. Size: 5152 bytes
+[2025-08-21 15:41:38] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 5152, Extension: png
+[2025-08-21 15:41:38] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 15:41:38] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 15:41:38] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 15:41:38] UPLOAD_LOGO: Attempting to move file from /tmp/phpc3bcHD to uploads/logo_43c78eb706f853718dbef3d8d0df4d1b_1755790898.png
+[2025-08-21 15:41:38] UPLOAD_LOGO: File moved successfully
+[2025-08-21 15:41:38] UPLOAD_LOGO: Upload completed successfully: uploads/logo_43c78eb706f853718dbef3d8d0df4d1b_1755790898.png
+[2025-08-21 15:41:38] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_43c78eb706f853718dbef3d8d0df4d1b_1755790898.png","logoName":"logo.png"}
+[2025-08-21 15:44:02] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 15:44:02] SAVE_SETTINGS: POST data: {"shopName":"Computer ","shopAddress":"S","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 15:44:02] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 15:44:02] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 15:54:07] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 15:54:07] SAVE_SETTINGS: POST data: {"shopName":"Computer ","shopAddress":"global village 1st floor","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 15:54:07] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 15:54:07] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:27:02] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:27:02] SAVE_SETTINGS: POST data: {"shopName":"Computer ","shopAddress":"global village 1st floor\r\nkannur\r\n670007","shopPhone":"","shopEmail":"","shopWebsite":""}
+[2025-08-21 16:27:02] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:27:02] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:28:38] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:28:38] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur\r\n670007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:28:38] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:28:38] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:29:37] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:29:37] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:29:37] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:29:37] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:30:06] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 16:30:06] UPLOAD_LOGO: POST data: []
+[2025-08-21 16:30:06] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpR4Raza","error":0,"size":5152}}
+[2025-08-21 16:30:06] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 16:30:06] UPLOAD_LOGO: File validation started. Size: 5152 bytes
+[2025-08-21 16:30:06] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 5152, Extension: png
+[2025-08-21 16:30:06] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 16:30:06] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 16:30:06] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 16:30:06] UPLOAD_LOGO: Attempting to move file from /tmp/phpR4Raza to uploads/logo_c05a5935cf6c137e02660b3cb997b188_1755793806.png
+[2025-08-21 16:30:06] UPLOAD_LOGO: File moved successfully
+[2025-08-21 16:30:06] UPLOAD_LOGO: Upload completed successfully: uploads/logo_c05a5935cf6c137e02660b3cb997b188_1755793806.png
+[2025-08-21 16:30:06] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_c05a5935cf6c137e02660b3cb997b188_1755793806.png","logoName":"logo.png"}
+[2025-08-21 16:30:08] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:30:08] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:30:08] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:30:08] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:30:09] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:30:09] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:30:09] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:30:09] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:31:53] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 16:31:53] UPLOAD_LOGO: POST data: []
+[2025-08-21 16:31:53] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpfmNoOM","error":0,"size":5152}}
+[2025-08-21 16:31:53] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 16:31:53] UPLOAD_LOGO: File validation started. Size: 5152 bytes
+[2025-08-21 16:31:53] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 5152, Extension: png
+[2025-08-21 16:31:53] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 16:31:53] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 16:31:53] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 16:31:53] UPLOAD_LOGO: Attempting to move file from /tmp/phpfmNoOM to uploads/logo_2f486dc2aef35950353eb32a6c4994cb_1755793913.png
+[2025-08-21 16:31:53] UPLOAD_LOGO: File moved successfully
+[2025-08-21 16:31:53] UPLOAD_LOGO: Upload completed successfully: uploads/logo_2f486dc2aef35950353eb32a6c4994cb_1755793913.png
+[2025-08-21 16:31:53] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_2f486dc2aef35950353eb32a6c4994cb_1755793913.png","logoName":"logo.png"}
+[2025-08-21 16:32:06] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 16:32:06] UPLOAD_LOGO: POST data: []
+[2025-08-21 16:32:06] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpXcvl68","error":0,"size":14341}}
+[2025-08-21 16:32:06] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 16:32:06] UPLOAD_LOGO: File validation started. Size: 14341 bytes
+[2025-08-21 16:32:06] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 14341, Extension: png
+[2025-08-21 16:32:06] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 16:32:06] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 16:32:06] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 16:32:06] UPLOAD_LOGO: Attempting to move file from /tmp/phpXcvl68 to uploads/logo_ed490bb70df4c76026ef672a4a5d2b92_1755793926.png
+[2025-08-21 16:32:06] UPLOAD_LOGO: File moved successfully
+[2025-08-21 16:32:06] UPLOAD_LOGO: Upload completed successfully: uploads/logo_ed490bb70df4c76026ef672a4a5d2b92_1755793926.png
+[2025-08-21 16:32:06] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_ed490bb70df4c76026ef672a4a5d2b92_1755793926.png","logoName":"logo.png"}
+[2025-08-21 16:32:08] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:32:08] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:32:08] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:32:08] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:32:09] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:32:09] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:32:09] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:32:09] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:32:34] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 16:32:34] UPLOAD_LOGO: POST data: []
+[2025-08-21 16:32:34] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpaTd4aB","error":0,"size":14341}}
+[2025-08-21 16:32:34] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 16:32:34] UPLOAD_LOGO: File validation started. Size: 14341 bytes
+[2025-08-21 16:32:34] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 14341, Extension: png
+[2025-08-21 16:32:34] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 16:32:34] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 16:32:34] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 16:32:34] UPLOAD_LOGO: Attempting to move file from /tmp/phpaTd4aB to uploads/logo_a27e380861e3782c8867a85f64ab27b2_1755793954.png
+[2025-08-21 16:32:34] UPLOAD_LOGO: File moved successfully
+[2025-08-21 16:32:34] UPLOAD_LOGO: Upload completed successfully: uploads/logo_a27e380861e3782c8867a85f64ab27b2_1755793954.png
+[2025-08-21 16:32:34] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_a27e380861e3782c8867a85f64ab27b2_1755793954.png","logoName":"logo.png"}
+[2025-08-21 16:32:36] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:32:36] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:32:36] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:32:36] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:36:38] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:36:38] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:36:38] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:36:38] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:39:03] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:39:03] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:39:03] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:39:03] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:41:40] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:41:40] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:41:40] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:41:40] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 16:59:49] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 16:59:49] SAVE_SETTINGS: POST data: {"shopName":"Computer Soft Kannur","shopAddress":"global village 1st floor\r\nkannur 600007","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 16:59:49] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 16:59:49] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 17:07:44] UPLOAD_LOGO: Upload attempt started
+[2025-08-21 17:07:44] UPLOAD_LOGO: POST data: []
+[2025-08-21 17:07:44] UPLOAD_LOGO: FILES data: {"shopLogo":{"name":"logo.png","full_path":"logo.png","type":"image\/png","tmp_name":"\/tmp\/phpcW2Oaa","error":0,"size":14341}}
+[2025-08-21 17:07:44] UPLOAD_LOGO: File upload detected, processing...
+[2025-08-21 17:07:44] UPLOAD_LOGO: File validation started. Size: 14341 bytes
+[2025-08-21 17:07:44] UPLOAD_LOGO: File details - Name: logo.png, Type: image/png, Size: 14341, Extension: png
+[2025-08-21 17:07:44] UPLOAD_LOGO: File validation passed, proceeding with upload
+[2025-08-21 17:07:44] UPLOAD_LOGO: Checking upload directory: uploads/
+[2025-08-21 17:07:44] UPLOAD_LOGO: Upload directory is writable, proceeding...
+[2025-08-21 17:07:44] UPLOAD_LOGO: Attempting to move file from /tmp/phpcW2Oaa to uploads/logo_584080e0634b62132f76394faef715d9_1755796064.png
+[2025-08-21 17:07:44] UPLOAD_LOGO: File moved successfully
+[2025-08-21 17:07:44] UPLOAD_LOGO: Upload completed successfully: uploads/logo_584080e0634b62132f76394faef715d9_1755796064.png
+[2025-08-21 17:07:44] UPLOAD_LOGO: Final response: {"success":true,"message":"Logo uploaded successfully!","logoPath":"uploads\/logo_584080e0634b62132f76394faef715d9_1755796064.png","logoName":"logo.png"}
+[2025-08-21 17:07:46] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 17:07:46] SAVE_SETTINGS: POST data: {"shopName":"","shopAddress":"1st Floor, Global Village\r\nBank Road\r\nKannur-1","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh"}
+[2025-08-21 17:07:46] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 17:07:46] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 17:13:25] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 17:13:25] SAVE_SETTINGS: POST data: {"shopName":"","shopAddress":"1st Floor, Global Village\r\nBank Road\r\nKannur-1","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh","shopGST":"MRGRV65157VEE","bankName":"Sbi","accountNumber":"123456789656","ifscCode":"SBIN0001235","accountHolder":"xkfugn"}
+[2025-08-21 17:13:25] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 17:13:25] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}
+[2025-08-21 17:21:39] SAVE_SETTINGS: Save settings attempt started
+[2025-08-21 17:21:39] SAVE_SETTINGS: POST data: {"shopName":"","shopAddress":"1st Floor, Global Village\r\nBank Road\r\nKannur-1","shopPhone":"90937074660","shopEmail":"ksjfvnsi@jshdbv.jkd","shopWebsite":"iseuhf.sdh","shopGST":"MRGRV65157VEEf","bankName":"Sbi","accountNumber":"123456789656","ifscCode":"SBIN0001235","accountHolder":"xkfugn"}
+[2025-08-21 17:21:39] SAVE_SETTINGS: Settings saved to session successfully
+[2025-08-21 17:21:39] SAVE_SETTINGS: Settings save response: {"success":true,"message":"Settings saved successfully"}

@@ -1,0 +1,26 @@
+<svg width="120" height="48" viewBox="0 0 120 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="24" cy="24" r="22" fill="#2563eb" stroke="#1d4ed8" stroke-width="2"/>
+  
+  <!-- Monitor Icon -->
+  <rect x="12" y="14" width="24" height="16" rx="2" fill="white" stroke="none"/>
+  <rect x="14" y="16" width="20" height="10" fill="#2563eb"/>
+  <rect x="20" y="30" width="8" height="2" fill="white"/>
+  <rect x="18" y="32" width="12" height="1" fill="white"/>
+  
+  <!-- Cursor/Arrow -->
+  <path d="M16 18 L20 22 L18 22 L18 26 L16 26 L16 22 L14 22 Z" fill="white"/>
+  
+  <!-- Text -->
+  <text x="52" y="20" fill="#2563eb" font-family="Arial, sans-serif" font-size="14" font-weight="bold">ESTIMATE</text>
+  <text x="52" y="34" fill="#64748b" font-family="Arial, sans-serif" font-size="10">GENERATOR</text>
+  
+  <!-- Decorative Elements -->
+  <rect x="108" y="12" width="2" height="8" fill="#10b981" rx="1"/>
+  <rect x="112" y="8" width="2" height="12" fill="#10b981" rx="1"/>
+  <rect x="116" y="16" width="2" height="4" fill="#10b981" rx="1"/>
+  
+  <rect x="108" y="28" width="2" height="6" fill="#f59e0b" rx="1"/>
+  <rect x="112" y="32" width="2" height="8" fill="#f59e0b" rx="1"/>
+  <rect x="116" y="30" width="2" height="10" fill="#f59e0b" rx="1"/>
+</svg>
